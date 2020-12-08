@@ -1,4 +1,5 @@
-# CetActivityStatistics
+# CetAnalyser
 CETActivity Analyser for BUPT SCSS 2020
 
-## 可执行文件在/dist文件夹内
+### 说明
+可执行文件放在了文件夹/dist里
